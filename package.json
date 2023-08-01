@@ -1,6 +1,6 @@
 {
   "name": "sync-request-http",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sync Request Library that utilises curl and execSync",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/nktnet1/sync-request-http#readme",
   "author": "Khiet Tam Nguyen",
+  "keywords": ["sync", "http", "curl"],
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^18.0.3",
